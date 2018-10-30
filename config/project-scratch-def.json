@@ -1,0 +1,7 @@
+{
+    "orgName": "br_mac Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
